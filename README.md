@@ -1,5 +1,5 @@
 # TitanicML
-My take on Kaggle Titanic Machine learning competition.  Explores different classifier techniques for approaching the problem
+My take on Kaggle Titanic Machine learning competition.  Explores different classifier techniques for approaching the problem!  For education and demonstration purposes only!
 
 The Jupyter Notebook contains the walkthrough
 
